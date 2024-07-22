@@ -38,10 +38,10 @@ library(sandwich) # Robust covariance matrix estimators
 
 # Set the working directory
 getwd()
-setwd("C:/Yadanar/Job Application/Data Analysis_Interview Assignments")
+#setwd("") #path to your directory
 
 # Load data
-raw_data <- read.csv("C:/Yadanar/Job Application/Data Analysis_Interview Assignments/csdid_example_v1_tested.csv")
+#raw_data <- read.csv("")
 
 
 #---- EXPLORATORY DATA ANALYSIS & DATA CLEANING ----#
