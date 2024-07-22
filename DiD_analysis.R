@@ -7,7 +7,7 @@
 # Reviewer:       n/a
 # Review date(s): n/a
 
-# Description:    This script imports the raw data from the "csdid_example_V1_test" file provided by ICF,
+# Description:    This script imports the raw data from the "csdid_example_V1_test" file provided by X,
 #                 and conducts a Difference-in-Differences (DiD) regression analysis to evaluate the impact.
 #
 #
